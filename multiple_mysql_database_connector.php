@@ -1,6 +1,7 @@
 <?php
 /*
 * Multiple database connector
+* Compatible: < PHP 7
 * Author: Gowrishankar Balu
 */
 
