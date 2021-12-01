@@ -2,7 +2,7 @@
 /*
 * Multiple database connector
 * Compatible: < PHP 7
-* Author: Gowrishankar Balu
+* Author: Gowri Shankar Balu
 */
 
 // Database 1
